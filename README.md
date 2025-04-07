@@ -30,4 +30,4 @@ Data columns (total 8 columns):
    - Neural Network - MLP
 4. Model Assessment
 
-All details and results of the project are described in the Python Notebook [./credit_card_fraud_final_project.ipynb]
+All details and results of the project are described in the Python Notebook [credit_card_fraud_final_project.ipynb](./credit_card_fraud_final_project.ipynb)
