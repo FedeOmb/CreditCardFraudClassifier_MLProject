@@ -6,8 +6,7 @@ The **Dataset** used to train the model contains a list of transactions labeled 
 
 ### Dataset Details
 ```
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 1000000 entries, 0 to 999999
+dataframe.shape: (1000000, 8)
 Data columns (total 8 columns):
  #   Column                          Non-Null Count    Dtype  
 ---  ------                          --------------    -----  
@@ -15,7 +14,7 @@ Data columns (total 8 columns):
  1   distance_from_last_transaction  1000000 non-null  float64
  2   ratio_to_median_purchase_price  1000000 non-null  float64
  3   repeat_retailer                 1000000 non-null  float64
- 4  	used_chip                       1000000 non-null  float64
+ 4   used_chip                       1000000 non-null  float64
  5   used_pin_number                 1000000 non-null  float64
  6   online_order                    1000000 non-null  float64
  7   fraud                           1000000 non-null  float64
